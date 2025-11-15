@@ -1,3 +1,6 @@
+Run `chmod +x setup_linux.sh && ./setup_linux.sh` or setup manually by using commands below.  
+(Still have to use `perfix + I` to fetch tmux plugin manually.)
+
 # Zsh
 ## install oh-my-zsh
 ```
