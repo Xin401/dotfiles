@@ -102,7 +102,3 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-
-. "$HOME/.local/bin/env"
-export PATH="$HOME/.local/share/gem/ruby/3.3.0/bin:$PATH"
-
