@@ -1,4 +1,4 @@
-Run `chmod +x setup_linux.sh && ./setup_linux.sh` or setup manually by using commands below.  
+Run `chmod +x setup.sh && ./setup.sh` or setup manually by using commands below.  
 (Still have to use `perfix + I` to fetch tmux plugin manually.)
 
 # Zsh
@@ -23,11 +23,11 @@ Edit `plugins=()` in `.zshrc`.
 e.g. `plugins=(git z zsh-autosuggestions zsh-syntax-highlighting history-substring-search)`
 
 # Vim
-Copy `.vimrc` to `~`.
+Copy `vim/.vimrc` to `~`.
 # Tmux
 ## install tpm
 ```
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
-Copy `.tmux.conf` to `~`.  
+Copy `vim/.tmux.conf` to `~`.  
 In tmux session, press the default key binding `prefix + I` to fetch and install the plugin.
