@@ -29,5 +29,5 @@ Copy `vim/.vimrc` to `~`.
 ```
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
-Copy `vim/.tmux.conf` to `~`.  
+Copy `tmux/.tmux.conf` to `~`.  
 In tmux session, press the default key binding `prefix + I` to fetch and install the plugin.
